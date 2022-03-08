@@ -8,7 +8,7 @@ I'm currently:
 
 -🌱 I’m currently learning Swift and expanding my knowledge in iOS Development!
 
-- 📫 How to reach me:
+-📫 How to reach me:
 
 - Email: mario.welch01@gmail.com
 - Linkedin: www.linkedin.com/in/mario-a-welch
