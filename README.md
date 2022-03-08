@@ -4,6 +4,7 @@ Im a current student and future grad (April 1st!!!) from Codeup, a 22-week fully
 
 I'm currently:
 -🔭 working on my capstone project!!!
+
 -🌱 I’m currently learning Swift and expanding my knowledge in iOS Development!
 - 📫 How to reach me:
 - Email: mario.welch01@gmail.com
