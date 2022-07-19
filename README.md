@@ -4,9 +4,9 @@ Im a graduate (April 1st!!!) from Codeup, a 22-week fully-immersive, project bas
 
 I'm currently:
 
--🔭 working on my capstone project!!!
+-🔭 mastering AWS and preparing for my first certification!!!
 
--🌱 learning Swift and expanding my knowledge in iOS Development!
+-🌱 learning Python, I'm currently completing the 100 Days of Code: The Complete Python Pro Bootcamp for 2022!
 
 📫 How to reach me:
 
