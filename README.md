@@ -6,7 +6,8 @@ I'm currently:
 
 -🔭 mastering AWS and preparing for my first certification!!!
 
--🌱 learning Python, I'm currently completing the 100 Days of Code: The Complete Python Pro Bootcamp for 2022!
+-🌱 Mastering Java, completing Udemy Java Programming Masterclass!
+-🌱 Reviewing Spring & Hibernate! 
 
 📫 How to reach me:
 
