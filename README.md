@@ -4,7 +4,7 @@ Im a graduate (April 1st!!!) from Codeup, a 22-week fully-immersive, project bas
 
 I'm currently:
 
--🔭 mastering AWS and preparing for my first certification!!!
+-🔭 Mastering AWS and preparing for my first certification - Certified Cloud Practitioner!!!
 
 -🌱 Mastering Java, completing Udemy Java Programming Masterclass!
 
