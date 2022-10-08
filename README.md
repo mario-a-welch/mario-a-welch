@@ -4,7 +4,7 @@ Im a graduate (April 1st!!!) from Codeup, a 22-week fully-immersive, project bas
 
 I'm currently:
 
--🔭 Certified Cloud Practitioner - Currently studying for my Asscociate Solutions Architect Certification!!!
+-🔭 Certified Cloud Practitioner - Currently studying for my Solutions Architect Associate Certification!!!
 
 -🌱 Mastering Java, completing Udemy Java Programming Masterclass!
 
